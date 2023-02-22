@@ -1,0 +1,98 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Frontend Dev",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Backend Dev",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+    "Skills": [
+        {
+            "id": 1,
+            "name": "HTML",
+            "precentage": "90%"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "precentage": "85%"
+        },
+        {
+            "id": 3,
+            "name": "JavaScript",
+            "precentage": "70%"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "image": "/images/portfolio-img1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "/images/portfolio-img2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "/images/portfolio-img3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "/images/portfolio-img5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "/images/portfolio-img6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id": 8,
+            "image": "/images/portfolio-img8.jpg"
+        }
+    ],
+    "social": [
+        {
+            "id": 1,
+            "icon": "fa-brands fa-facebook",
+            "title": "Follow Me on",
+            "body": "Social Facebook",
+            "bg_color":"#3b5998"
+        },
+        {
+            "id": 2,
+            "icon": "fa-brands fa-twitter",
+            "title": "Tweet Me on",
+            "body": "Social twitter",
+            "bg_color":"#498cbf"
+
+        },
+        {
+            "id": 3,
+            "icon": "fa-brands fa-instagram",
+            "title": "Insta Me on",
+            "body": "Social Instagram",
+            "bg_color":"#cc2127"
+
+        }
+    ]
+}
